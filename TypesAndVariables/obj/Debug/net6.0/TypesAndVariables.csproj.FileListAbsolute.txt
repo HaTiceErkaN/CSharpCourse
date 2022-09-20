@@ -1,0 +1,15 @@
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\net6.0\TypesAndVariables.exe
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\net6.0\TypesAndVariables.deps.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\net6.0\TypesAndVariables.runtimeconfig.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\net6.0\TypesAndVariables.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\bin\Debug\net6.0\TypesAndVariables.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\refint\TypesAndVariables.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\TypesAndVariables\obj\Debug\net6.0\ref\TypesAndVariables.dll

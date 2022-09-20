@@ -1,0 +1,15 @@
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\bin\Debug\net6.0\Scanner.exe
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\bin\Debug\net6.0\Scanner.deps.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\bin\Debug\net6.0\Scanner.runtimeconfig.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\bin\Debug\net6.0\Scanner.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\bin\Debug\net6.0\Scanner.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.csproj.AssemblyReference.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.AssemblyInfoInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.AssemblyInfo.cs
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\refint\Scanner.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\Scanner.genruntimeconfig.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\Scanner\obj\Debug\net6.0\ref\Scanner.dll

@@ -1,0 +1,15 @@
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\bin\Debug\net6.0\MiniAtm.exe
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\bin\Debug\net6.0\MiniAtm.deps.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\bin\Debug\net6.0\MiniAtm.runtimeconfig.json
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\bin\Debug\net6.0\MiniAtm.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\bin\Debug\net6.0\MiniAtm.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.csproj.AssemblyReference.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.AssemblyInfoInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.AssemblyInfo.cs
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.csproj.CoreCompileInputs.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\refint\MiniAtm.dll
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.pdb
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\MiniAtm.genruntimeconfig.cache
+C:\Users\Hatice Erkan\source\repos\CSharpCourse\MiniAtm\obj\Debug\net6.0\ref\MiniAtm.dll
