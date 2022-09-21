@@ -12,9 +12,7 @@ namespace MiniAtm
         public static String islem;
         public static String farkliIslem;
        public static  void Main(String[] args) {
-
-            girisEkrani();
-          
+            girisEkrani();       
     }
 
 
@@ -25,6 +23,7 @@ namespace MiniAtm
             islemSec();
          
         }
+
         public static void islemSec()
         {
             Console.WriteLine("Lutfen yapmak istediginiz islemi seciniz");
@@ -32,7 +31,7 @@ namespace MiniAtm
             Console.WriteLine("Para Cekme icin         : 2");
             Console.WriteLine("Para Yatırma icin       : 3");
             Console.WriteLine("Cıkıs yapmak icin       : q");
-            islem = Console.ReadLine();
+            islem = Console.ReadLine().ToLower();
 
             switch (islem)
             {
@@ -60,17 +59,7 @@ namespace MiniAtm
         public static void bakiyeGoruntule()
         {
             Console.WriteLine("Bakiyeniz : " + bakiye + " tl'dir");
-            Console.WriteLine("Farkli bir islem yapmak istiyor musunuz?  Evet: E, Hayır:H");
-            farkliIslem = Console.ReadLine();
-            if (farkliIslem == "E")
-            {
-                girisEkrani();
-            }
-            else
-            {
-                cıkısYapma();
-            }
-
+            farklıIslem();
         }
 
         public static void paraCekme()
@@ -79,26 +68,18 @@ namespace MiniAtm
             cekilecekTutar = Convert.ToInt16(Console.ReadLine());
             if (cekilecekTutar > bakiye)
             {
-                Console.WriteLine("Bakiyeniz "+bakiye+" girdiginiz " + cekilecekTutar + " icin yetersizdir.Lutfen gecerli bir tutar giriniz");
-                Console.WriteLine("Lutfen cekmek istediginiz tutarı giriniz");
-                cekilecekTutar = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("Bakiyeniz "+bakiye+" tl'dir, girdiginiz " + cekilecekTutar + " icin yetersizdir.Lutfen gecerli bir tutar giriniz");
+                paraCekme();
+               
             }
             else
             {
+             
                 bakiye = bakiye - cekilecekTutar;
                 Console.WriteLine("Para cekme isleminiz gerceklestirilmistir. Guncel bakiyeniz: " + bakiye + " tl'dir");
+                farklıIslem();
             }
-
-            Console.WriteLine("Farkli bir islem yapmak istiyor musunuz?  Evet: E, Hayır:H");
-            farkliIslem = Console.ReadLine();
-            if (farkliIslem == "E")
-            {
-                girisEkrani();
-            }
-            else
-            {
-                cıkısYapma();
-            }
+            
         }
 
         public static void paraYatırma()
@@ -109,24 +90,33 @@ namespace MiniAtm
             Console.WriteLine("İsleminiz gerceklestiriliyor lutfen bekleyiniz...");
             bakiye = bakiye + yatirilacakTutar;
             Console.WriteLine("İsleminiz basarili bir seki de gerceklesmistir. Guncel bakiyeniz: " + bakiye + " tl'dir.");
-
-            Console.WriteLine("Farkli bir islem yapmak istiyor musunuz?  Evet: E, Hayır:H");
-            farkliIslem = Console.ReadLine();
-            if (farkliIslem == "E")
-            {
-                girisEkrani();
-            }
-            else
-            {
-                cıkısYapma();
-            }
-
+            farklıIslem();
         }
 
         public static void cıkısYapma()
         {
             Console.WriteLine("Cıkıs isleminiz gerceklestiriliyor, Lutfen bekleyiniz..");
             Console.WriteLine("Cıkıs isleminiz gerceklesmistir. Bizi tercih ettiginiz icin tesekkur eder, iyi günler dileriz..");
+           
+        }
+
+        public static void farklıIslem()
+        {
+            Console.WriteLine("Farkli bir islem yapmak istiyor musunuz?  Evet: E, Hayır:H");
+            farkliIslem = Console.ReadLine().ToUpper();
+            if (farkliIslem == "E")
+            {
+                girisEkrani();
+            }
+            else if (farkliIslem == "H")
+            {
+                cıkısYapma();
+            }
+            else
+            {
+                Console.WriteLine("Lutfen gecerli bir islem giriniz");
+                farklıIslem();
+            }
         }
     }
 }
